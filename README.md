@@ -4,13 +4,13 @@ Commands and imp stuff for linux
 
 ## General Commands 
 
+1. **cd**: cd is used to change directorys. 
+```bash
+$ cd [Dir_Name]
 ```
-cd 
-``` - For Changing Directory  (i.e cd Downloads.)
 
-```
-cd ..
-```- : This  is used to move to the parent directory of current directory, or the directory one level up from the current directory. “..” represents parent directory. 
-```
-cd /
-``` - This is used to change directory to Root Directory
+2. **whoami** : shows the current user 
+```bash
+$ whoami
+ virus2466
+````
